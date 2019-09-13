@@ -1,7 +1,7 @@
 {
-  "name": "hello_world",
+  "name": "nodejs_express_template",
   "version": "1.0.0",
-  "description": "Hello World Example for NodeJS",
+  "description": "Express Server Template for NodeJS",
   "main": "./src/server.js",
   "scripts": {
     "test": "npm test",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stephendsmithco/Hello_World.git"
+    "url": "git+https://github.com/stephendsmithco/NodeJS_Express_Template.git"
   },
   "author": "Stephen Smith",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stephendsmithco/Hello_World/issues"
+    "url": "https://github.com/stephendsmithco/NodeJS_Express_Template/issues"
   },
   "husky": {
     "hooks": {
@@ -44,5 +44,5 @@
     "nodemon": "^1.19.2",
     "standard": "^14.1.0"
   },
-  "homepage": "https://github.com/stephendsmithco/Hello_World#readme"
+  "homepage": "https://github.com/stephendsmithco/NodeJS_Express_Template#README"
 }
